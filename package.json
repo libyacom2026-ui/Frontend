@@ -1,0 +1,12 @@
+{
+  "name": "nomadic-energy-website",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "nodemailer": "^6.9.16"
+  },
+  "scripts": {
+    "build": "echo \"Static site - no build required\"",
+    "start": "echo \"Static site\""
+  }
+}
